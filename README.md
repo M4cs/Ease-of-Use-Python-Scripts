@@ -1,4 +1,4 @@
-# Ease-of-Use-Python-Scripts
+# EoU Python Scripts by Macs
 A collection of my personal python scripts that make tedious tasks less... well... tedious. Below you will find a list of the checkers and their uses, along with any pre-reqs they may need to run properly.
 
 Feel Free to use any of these for your day-to-day.. that's what they were made for. However I would like to get some credit if you use it in your own program or post it yourself somewhere i.e., a forum site, twitter, pastebin, idk wherever you end up posting it. I'm not putting this under an specific license but I am stating this here. GIVE CREDIT WHERE CREDIT IS DUE.
